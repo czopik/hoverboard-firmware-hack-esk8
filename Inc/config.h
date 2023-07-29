@@ -1,7 +1,7 @@
 #pragma once
 #include "stm32f1xx_hal.h"
 
-// ############################### DO-NOT-TOUCH SETTINGS ###############################
+// ############################### DO-NOT-TOUCH SETTINGS ################################
 
 #define PWM_FREQ         16000      // PWM frequency in Hz
 #define DEAD_TIME        32         // PWM deadtime
